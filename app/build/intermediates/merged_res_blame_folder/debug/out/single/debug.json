@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.car.app-merged_res-24:/drawable-mdpi_assets_back.png.flat",
+        "source": "com.car.app-main-26:/drawable-mdpi/assets_back.png"
+    },
+    {
+        "merged": "com.car.app-merged_res-24:/drawable-mdpi_assets_heart.png.flat",
+        "source": "com.car.app-main-26:/drawable-mdpi/assets_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.car.app-merged_res-24:/drawable-mdpi_assets_car.jpg.flat",
+        "source": "com.car.app-main-26:/drawable-mdpi/assets_car.jpg"
+    },
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.car.app-merged_res-24:/drawable-mdpi_assets_logo.png.flat",
+        "source": "com.car.app-main-26:/drawable-mdpi/assets_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.car.app-merged_res-24:/drawable-mdpi_assets_speedometer.png.flat",
+        "source": "com.car.app-main-26:/drawable-mdpi/assets_speedometer.png"
+    },
+    {
+        "merged": "com.car.app-merged_res-24:/drawable-mdpi_assets_marker.png.flat",
+        "source": "com.car.app-main-26:/drawable-mdpi/assets_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-merged_res-24:\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\boss3\\.gradle\\daemon\\8.0.1\\com.car.app-main-26:\\drawable\\rn_edit_text_material.xml"
+    }
+]
